@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rehankhanmrk" alt="rehankhanmrk" /></a> </p>
 
 
-<img align="right" src="https://proeffico.com/wp-content/uploads/2023/10/devOps-cloud-native-2.gif" alt="Profile Banner" height="300" width="350">
+<img align="right" src="https://proeffico.com/wp-content/uploads/2023/10/devOps-cloud-native-2.gif" alt="Profile Banner" height="300" width="450">
 
 
 - 🔭 I’m currently working on **Reactjs**
