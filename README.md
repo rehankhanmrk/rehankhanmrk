@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Nestjs**
 
-<img src="https://proeffico.com/wp-content/uploads/2023/10/devOps-cloud-native-2.gif" alt="Profile Banner" height="200">
+<img src="https://proeffico.com/wp-content/uploads/2023/10/devOps-cloud-native-2.gif" alt="Profile Banner" height="400">
 
 
 <h3 align="left">Connect with me:</h3>
