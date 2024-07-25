@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Rehan khan</h1>
 <h3 align="center">A passionate DevOps Engineer from Pakistan</h3>
-![Profile Banner](https://github.com/username/repo/blob/main/path/to/image.png)
+![Profile Banner](https://proeffico.com/wp-content/uploads/2023/10/devOps-cloud-native-2.gif)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rehankhanmrk&label=Profile%20views&color=0e75b6&style=flat" alt="rehankhanmrk" /> </p>
